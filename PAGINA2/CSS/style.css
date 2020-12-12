@@ -1,0 +1,188 @@
+body{
+    margin: 0px;
+    line-height: 1.5;
+    font-family: 'Open Sans', sans-serif;
+}
+
+h2{
+    text-align: center;
+    border-bottom: 4px solid black;
+    font-weight: 700;
+}
+
+.titulosh2{
+    width: 30%;
+    margin: auto;
+    padding: 10px;
+}
+
+.contenh{
+    width: 90%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navegacion a{
+    text-decoration: none;
+    color: black;
+    margin-right: 22px;
+}
+
+.navegacion a:hover{
+    color: rgb(248, 168, 20);
+}
+
+.sectimg img{
+    width: 100%;
+    margin-top: 20px;
+}
+
+.contmain{
+    width: 90%;
+    display: flex;
+    margin: auto;
+    justify-content: space-evenly;
+}
+
+.contimgmain{
+    width: 70px;
+    margin: auto;
+}
+
+.contimgmain img{
+    width: 100%;
+}
+
+.artimain{
+width: 25%;
+}
+
+.textmain{
+    text-align: center;
+    padding: 20px;
+}
+
+.contblog{
+    width: 90%;
+    margin: auto;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.artblog{
+    width: 30%;
+    border: 1px solid black;
+    height: 630px;
+justify-content: space-between;
+}
+
+.artblog img{
+    width: 100%;
+}
+
+.artblog span{
+    color: rgb(248, 168, 20);
+    font-size: 15px;
+    font-style: italic;
+}
+
+.textblog{
+    padding-left: 12px;
+    padding-right: 12px;
+}
+
+.textblog a{
+    text-decoration: none;
+    background: rgb(248, 168, 20);
+    text-align: center;
+    padding: 12px 125px;
+    font-size: 15px;
+    color: white;   
+}
+
+.secrecom{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.contrecom{
+    width: 80%;
+    margin: auto;
+}
+
+.contrecom span{
+    font-size: 15px;
+    font-style: italic;
+}
+
+.pie{
+    border-top: solid 3px orange;
+    padding: 20px;
+}
+
+.contpie{
+    width: 90%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.contpie{
+    color: rgb(248, 168, 20);
+    font-size: 15px;
+    font-style: italic;
+}
+
+.nos{
+    margin: auto;
+    border: solid 2px black;
+    width: 46.5%;
+}
+
+.productos{
+    width: 100%;
+    margin: auto;
+}
+
+.contproduct{
+    width: 90%;
+    margin: auto;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.entrada img{
+    border-radius: 20px;
+    border: 4px rgb(0, 0, 0) solid;
+}
+.entrada{
+    width: 80%;
+    align-content: center;
+    margin: auto;
+    padding-top: 12px;
+    padding-bottom: 12pxs;
+    background-color: rgb(235, 180, 30);
+    border-radius: 20px;
+    font-style: italic;
+}
+
+.contacto{
+    width: 80%;
+    margin: auto;
+    padding-top: 60px;
+}
+
+.boton{
+    cursor: pointer;
+    font-size: 21px;
+    font-weight: 700;
+    margin-top: 15px;
+    border: solid 1px rgb(231, 155, 12);
+    color: orange;
+    margin-top: 20px; margin-bottom: 20px;
+    
+}
